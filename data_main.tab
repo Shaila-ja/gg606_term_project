@@ -1,0 +1,110 @@
+/* DATA DESCRIPTION:
+Citation:	Parga Martínez, Karla B; Andersen, Thorbjørn Joest; Posth, Nicole; da Silva, Vitor; Strand, Jakob (2024): Microplastics accumulation in a glacimarine sediment core from Disko Bay, Greenland [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.972635
+Abstract:	The dataset provides information on microplastics particles identified in a sediment core from Disko Bay, Greenland, collected in August 2015 and dated back to 1930. This sediment core was used for the reconstruction of microplastic accumulation in the Anthropocene. The sediment layers were dated radiometically (Lead-210 and Americium-241), extracted and identified via µ-FTIR.The table contains particle count, mass, polymer type, number of particles per polymer type, sediment layer (depth), which corresponds to a specific year, and microplastics accumulation in number of particles/Kg d.w. This datasets is complementary to https://doi.pangaea.de/10.1594/PANGAEA.972712, https://doi.pangaea.de/10.1594/PANGAEA.972713, and the limits of detection are in https://doi.pangaea.de/10.1594/PANGAEA.972709.
+Keyword(s):	Anthropocene; Arctic; Greenland; Marine sediment; Microplastics
+Related to:	Parga Martínez, Karla B; Andersen, Thorbjørn Joest; da Silva, Vitor; Strand, Jakob; Posth, Nicole R (2024): Microplastics deposition in Arctic sediments of Greenland increases significantly after 1950. Communications Earth & Environment, 5(1), 584, https://doi.org/10.1038/s43247-024-01768-y
+	Parga Martínez, Karla B; Andersen, Thorbjørn Joest; Posth, Nicole; da Silva, Vitor; Strand, Jakob (2024): Limit of detection (LoD) of microplastic accumulation in a glacimarine sediment core from Disko Bay, Greenland [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.972709
+	Parga Martínez, Karla B; Andersen, Thorbjørn Joest; Posth, Nicole; da Silva, Vitor; Strand, Jakob (2024): Microplastics particle morphology in a glacimarine sediment core from Disko Bay, Greenland [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.972713
+	Parga Martínez, Karla B; Andersen, Thorbjørn Joest; Posth, Nicole; da Silva, Vitor; Strand, Jakob (2024): Microplastics size class and fractions in a glacimarine sediment core from Disko Bay, Greenland [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.972712
+Funding:	H2020 Marie Skłodowska-Curie Actions (MSCA), grant/award no. 801199: RECORD: An anthropogenic archive of plastic pollution in Greenland
+Coverage:	LATITUDE: 69.030670 * LONGITUDE: -53.030390
+	DATE/TIME START: 2015-08-03T00:00:00 * DATE/TIME END: 2015-08-03T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.00 m * MAXIMUM DEPTH, sediment/rock: 0.28 m
+Event(s):	Disko_Bay_Core * LATITUDE: 69.030670 * LONGITUDE: -53.030390 * DATE/TIME: 2015-08-03T00:00:00 * ELEVATION: -850.0 m * LOCATION: Disko Bay, Greenland * METHOD/DEVICE: Rumohr corer (RUMC)
+Parameter(s):	Event label (Event) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	Age [a AD/CE] (Age) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	AGE [ka BP] (Age) * GEOCODE * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	Polymer (Polymer) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	Microplastic particles [#] (Microplastic part) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com) * METHOD/DEVICE: Fourier Transform Infrared spectroscopy (FTIR) in combination with automated polymer identification [SIMPLE software] (FTIR SIMPLE software)
+	Microplastic abundance [#/kg] (Microplastic) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	Microplastic [mg/kg] (Microplastic) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	Microplastics, mass, total [mg] (Microplastic m tot) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+	Mass [µg] (Mass) * PI: Parga Martínez, Karla B (https://orcid.org/0000-0003-1547-2898, karla.pargamartinez@gmail.com)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0) (URI: https://creativecommons.org/licenses/by/4.0/)
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels)
+Size:	574 data points
+*/
+Event	Age [a AD/CE]	Age [ka BP]	Depth sed [m]	Polymer	Microplastic part [#]	Microplastic [#/kg]	Microplastic [mg/kg]	Microplastic m tot [mg]	Mass [µg]
+Disko_Bay_Core	1930	0.020	0.28	PE	10	558.66	0.0075	0.00013	0.1339
+Disko_Bay_Core	1930	0.020	0.28	PP	4	223.46	0.0032	0.00006	0.0571
+Disko_Bay_Core	1930	0.020	0.28	Polyester	6	335.20	0.0292	0.00052	0.5227
+Disko_Bay_Core	1930	0.020	0.28	PVC	5	279.33	0.0352	0.00063	0.6296
+Disko_Bay_Core	1930	0.020	0.28	PS	8	446.93	0.0173	0.00031	0.3100
+Disko_Bay_Core	1941	0.009	0.26	PE	12	515.02	0.0073	0.00017	0.1710
+Disko_Bay_Core	1941	0.009	0.26	Polyester	6	257.51	0.0228	0.00053	0.5302
+Disko_Bay_Core	1941	0.009	0.26	PP	4	171.67	0.0006	0.00002	0.0151
+Disko_Bay_Core	1941	0.009	0.26	PVC	1	42.92	0.0008	0.00002	0.0182
+Disko_Bay_Core	1951	-0.001	0.24	Polyester	11	556.68	0.0333	0.00066	0.6590
+Disko_Bay_Core	1951	-0.001	0.24	PE	5	253.04	0.0090	0.00018	0.1780
+Disko_Bay_Core	1951	-0.001	0.24	PP	3	151.82	0.0323	0.00064	0.6374
+Disko_Bay_Core	1951	-0.001	0.24	PC	6	303.64	0.0165	0.00033	0.3258
+Disko_Bay_Core	1960	-0.010	0.22	PE	100	4139.07	0.3353	0.00810	8.1005
+Disko_Bay_Core	1960	-0.010	0.22	PP	4	165.56	0.0013	0.00003	0.0326
+Disko_Bay_Core	1960	-0.010	0.22	Polyester	3	124.17	0.0345	0.00083	0.8341
+Disko_Bay_Core	1960	-0.010	0.22	PVC	2	82.78	0.0008	0.00002	0.0183
+Disko_Bay_Core	1967	-0.017	0.20	PP	167	10858.26	0.2714	0.00417	4.1737
+Disko_Bay_Core	1967	-0.017	0.20	PE	71	4616.38	0.0980	0.00151	1.5080
+Disko_Bay_Core	1967	-0.017	0.20	Polyester	7	455.14	0.0557	0.00086	0.8561
+Disko_Bay_Core	1967	-0.017	0.20	PC	2	130.04	0.0129	0.00020	0.1984
+Disko_Bay_Core	1967	-0.017	0.20	PVC	2	130.04	0.0071	0.00011	0.1089
+Disko_Bay_Core	1967	-0.017	0.20	PS	3	195.06	0.0012	0.00002	0.0178
+Disko_Bay_Core	1967	-0.017	0.20	PU	4	260.08	0.0725	0.00112	1.1157
+Disko_Bay_Core	1974	-0.024	0.18	PE	61	3963.61	0.0932	0.00143	1.4341
+Disko_Bay_Core	1974	-0.024	0.18	PP	9	584.80	0.0335	0.00051	0.5148
+Disko_Bay_Core	1974	-0.024	0.18	Polyester	7	454.84	0.0217	0.00033	0.3345
+Disko_Bay_Core	1974	-0.024	0.18	PS	7	454.84	0.0312	0.00048	0.4805
+Disko_Bay_Core	1974	-0.024	0.18	PVC	2	129.95	0.0037	0.00006	0.0573
+Disko_Bay_Core	1974	-0.024	0.18	PMMA	1	64.98	0.0069	0.00011	0.1057
+Disko_Bay_Core	1974	-0.024	0.18	PC	1	64.98	0.0018	0.00003	0.0280
+Disko_Bay_Core	1980	-0.030	0.16	PE	28	1811.13	0.1125	0.00174	1.7397
+Disko_Bay_Core	1980	-0.030	0.16	PP	5	323.42	0.0547	0.00085	0.8451
+Disko_Bay_Core	1980	-0.030	0.16	Polyester	1	64.68	0.0036	0.00006	0.0559
+Disko_Bay_Core	1980	-0.030	0.16	PU	3	194.05	0.0589	0.00091	0.9099
+Disko_Bay_Core	1986	-0.036	0.14	PE	19	1225.81	0.0872	0.00135	1.3509
+Disko_Bay_Core	1986	-0.036	0.14	PP	14	903.23	0.0388	0.00060	0.6021
+Disko_Bay_Core	1986	-0.036	0.14	Polyester	12	774.19	0.1491	0.00231	2.3111
+Disko_Bay_Core	1986	-0.036	0.14	PS	4	258.06	0.0106	0.00016	0.1645
+Disko_Bay_Core	1991	-0.041	0.12	PE	36	2294.46	0.0499	0.00078	0.7836
+Disko_Bay_Core	1991	-0.041	0.12	PP	13	828.55	0.0079	0.00012	0.1234
+Disko_Bay_Core	1991	-0.041	0.12	Polyester	4	254.94	0.0097	0.00015	0.1526
+Disko_Bay_Core	1991	-0.041	0.12	PC	1	63.73	0.0004	0.00001	0.0070
+Disko_Bay_Core	1996	-0.046	0.10	PE	8	534.05	0.1081	0.00162	1.6199
+Disko_Bay_Core	1996	-0.046	0.10	Polyester	7	467.29	0.0782	0.00117	1.1721
+Disko_Bay_Core	1996	-0.046	0.10	PP	7	467.29	0.0354	0.00053	0.5299
+Disko_Bay_Core	1996	-0.046	0.10	PS	4	267.02	0.0026	0.00004	0.0388
+Disko_Bay_Core	1996	-0.046	0.10	PC	1	66.76	0.0025	0.00004	0.0367
+Disko_Bay_Core	1996	-0.046	0.10	PVC	1	66.76	0.0042	0.00006	0.0635
+Disko_Bay_Core	2000	-0.050	0.08	PP	26	1575.76	0.0363	0.00060	0.5991
+Disko_Bay_Core	2000	-0.050	0.08	PE	85	5151.52	0.1621	0.00267	2.6746
+Disko_Bay_Core	2000	-0.050	0.08	Polyester	9	545.45	0.0510	0.00084	0.8407
+Disko_Bay_Core	2000	-0.050	0.08	PC	2	121.21	0.1109	0.00183	1.8300
+Disko_Bay_Core	2000	-0.050	0.08	PVC	2	121.21	0.0103	0.00017	0.1706
+Disko_Bay_Core	2000	-0.050	0.08	PS	1	60.61	0.0007	0.00001	0.0108
+Disko_Bay_Core	2005	-0.055	0.06	PE	34	1579.93	0.2139	0.00460	4.6034
+Disko_Bay_Core	2005	-0.055	0.06	PP	17	789.96	0.3043	0.00655	6.5495
+Disko_Bay_Core	2005	-0.055	0.06	Polyester	7	325.28	0.0258	0.00056	0.5558
+Disko_Bay_Core	2005	-0.055	0.06	PS	9	418.22	0.0932	0.00201	2.0052
+Disko_Bay_Core	2005	-0.055	0.06	PVC	7	325.28	0.0362	0.00078	0.7791
+Disko_Bay_Core	2005	-0.055	0.06	PC	1	46.47	0.0019	0.00004	0.0416
+Disko_Bay_Core	2005	-0.055	0.06	PU	3	139.41	0.0099	0.00021	0.2123
+Disko_Bay_Core	2005	-0.055	0.06	PMMA	1	46.47	0.0001	0.00000	0.0028
+Disko_Bay_Core	2009	-0.059	0.04	PP	19	1024.26	0.0288	0.00053	0.5346
+Disko_Bay_Core	2009	-0.059	0.04	PE	15	808.63	0.0304	0.00056	0.5632
+Disko_Bay_Core	2009	-0.059	0.04	Polyester	3	161.73	0.0584	0.00108	1.0834
+Disko_Bay_Core	2009	-0.059	0.04	PC	2	107.82	0.0103	0.00019	0.1916
+Disko_Bay_Core	2009	-0.059	0.04	PU	1	53.91	0.0028	0.00005	0.0511
+Disko_Bay_Core	2012	-0.062	0.02	PE	26	1735.65	0.1060	0.00159	1.5882
+Disko_Bay_Core	2012	-0.062	0.02	PP	15	1001.34	0.0408	0.00061	0.6114
+Disko_Bay_Core	2012	-0.062	0.02	Polyester	9	600.80	0.0659	0.00099	0.9874
+Disko_Bay_Core	2012	-0.062	0.02	PC	14	934.58	0.0870	0.00130	1.3025
+Disko_Bay_Core	2012	-0.062	0.02	PU	1	66.76	0.0004	0.00001	0.0056
+Disko_Bay_Core	2012	-0.062	0.02	PVC	1	66.76	0.0030	0.00005	0.0454
+Disko_Bay_Core	2015	-0.065	0.00	PP	16	1366.35	0.0851	0.00100	0.9965
+Disko_Bay_Core	2015	-0.065	0.00	PE	12	1024.77	0.1849	0.00216	2.1648
+Disko_Bay_Core	2015	-0.065	0.00	Polyester	8	683.18	0.0162	0.00019	0.1902
+Disko_Bay_Core	2015	-0.065	0.00	PC	10	853.97	0.0459	0.00054	0.5372
+Disko_Bay_Core	2015	-0.065	0.00	PVC	1	85.40	0.0108	0.00013	0.1263
+Disko_Bay_Core	2015	-0.065	0.00	PS	1	85.40	0.0182	0.00021	0.2134
+Disko_Bay_Core	2015	-0.065	0.00	PMMA	3	256.19	0.0020	0.00002	0.0230
+Disko_Bay_Core	2015	-0.065	0.00	PU	1	85.40	0.0016	0.00002	0.0191
